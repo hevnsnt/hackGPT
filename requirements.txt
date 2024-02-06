@@ -5,3 +5,4 @@ python-dotenv
 pathlib
 openai
 gradio
+fastapi>=0.109.1 # not directly required, pinned by Snyk to avoid a vulnerability
